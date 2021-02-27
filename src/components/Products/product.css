@@ -1,0 +1,33 @@
+.pd-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    width: 90%;
+}
+.product-image{
+    width: 25%;
+    margin-right: 10px;
+}
+.product-description{
+    width: 60%;
+}
+.product-description h6{
+    color: rgb(28, 28, 224);
+}
+.pd-description{
+    display: flex;
+}
+.left-col{
+    width: 50%;  
+}
+.main-btn{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
